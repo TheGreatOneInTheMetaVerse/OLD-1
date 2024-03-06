@@ -55,3 +55,5 @@ def get_balance(self):
 
 def get_transactions(self):
     return self.transactions
+    def get_transactions(self):
+    return self.transactions
