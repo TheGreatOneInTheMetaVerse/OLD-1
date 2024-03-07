@@ -51,7 +51,7 @@ def withdraw(self, amount):
         print("Insufficient funds or invalid withdrawal amount.")
 
 def get_balance(self):
-    return self.balance
+ 
 
 def get_transactions(self):
     return self.transactions
