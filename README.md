@@ -48,7 +48,7 @@ def withdraw(self, amount):
         self.balance -= amount
         self.transactions.append(f"Withdrew {amount} coins.")
     else:
-        print("Insufficient funds or invalid withdrawal amount.")
+    
 
 
  
