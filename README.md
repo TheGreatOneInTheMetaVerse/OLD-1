@@ -46,8 +46,7 @@ def deposit(self, amount):
 def withdraw(self, amount):
     if 0 < amount <= self.balance:
         self.balance -= amount
-        self.transactions.append(f"Withdrew {amount} coins.")
-    else:
+  
     
 
 
