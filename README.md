@@ -57,3 +57,4 @@ def get_transactions(self):
     return self.transactions
     def get_transactions(self):
     return self.transactions
+Updated with new node setup
